@@ -1,16 +1,64 @@
-# React + Vite
+# 📅 Calendar in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful and interactive calendar application built with React and Vite! 🗓️✨
 
-Currently, two official plugins are available:
+This project features a modern calendar interface with event management capabilities. Users can navigate through months, add events to specific dates, and delete events as needed. The calendar highlights today's date and displays events with visual indicators.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## React Compiler
+- 📅 **Interactive Calendar**: Navigate through months with smooth transitions
+- 🎯 **Event Management**: Add and delete events for any date
+- 🎨 **Modern UI**: Beautiful gradients, animations, and hover effects
+- 📱 **Responsive Design**: Works great on different screen sizes
+- 💾 **Local Storage**: Events are saved locally in your browser
+- ⚡ **Fast Performance**: Built with Vite for lightning-fast development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+Check out the live version: [https://iam269.github.io/Calendar-in-React/](https://iam269.github.io/Calendar-in-React/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ **React** - Component-based UI library
+- ⚡ **Vite** - Fast build tool and dev server
+- 🎨 **CSS3** - Modern styling with animations
+- 📦 **Local Storage** - Client-side data persistence
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/iam269/Calendar-in-React.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Calendar-in-React
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit `http://localhost:5174`
+
+## 🎮 Usage
+
+- **Navigate Months**: Use the arrow buttons to switch between months
+- **Add Events**: Click on any date to open the event popup and add a title and description
+- **Delete Events**: Click on a date with events to see the delete button
+- **Today's Date**: The current date is highlighted in red
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit issues and pull requests.
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
