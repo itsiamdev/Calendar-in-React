@@ -15,7 +15,7 @@ This project features a modern calendar interface with event management capabili
 
 ## 🚀 Live Demo
 
-Check out the live version: [https://iam269.github.io/Calendar-in-React/](https://iam269.github.io/Calendar-in-React/)
+Check out the live version: [https://itsiamdev.github.io/Calendar-in-React/](https://itsiamdev.github.io/Calendar-in-React/)
 
 ## 🛠️ Tech Stack
 
